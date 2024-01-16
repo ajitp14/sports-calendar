@@ -1,0 +1,94 @@
+{
+  "fixtures-results": {
+    "team": {
+      "name": "Manchester United",
+      "id": 13
+    },
+    "matches": [
+      {
+        "date": "2023-08-14",
+        "venue": "Old Trafford",
+        "competition": {
+          "name": "Premier League",
+          "id": 1
+        },
+        "id": 457919,
+        "time": "20:00",
+        "home-team": {
+          "score": 1,
+          "half-time-score": 0,
+          "name": "Manchester United",
+          "id": 13
+        },
+        "referee": "Simon Hooper",
+        "away-team": {
+          "score": 0,
+          "half-time-score": 0,
+          "name": "Wolverhampton Wanderers",
+          "id": 44
+        },
+        "attendance": 73358,
+        "status": {
+          "short": "FT",
+          "full": "Full Time"
+        }
+      },
+      {
+        "date": "2023-08-19",
+        "venue": "Tottenham Hotspur Stadium",
+        "competition": {
+          "name": "Premier League",
+          "id": 1
+        },
+        "id": 457927,
+        "time": "17:30",
+        "home-team": {
+          "score": 2,
+          "half-time-score": 0,
+          "name": "Tottenham Hotspur",
+          "id": 19
+        },
+        "referee": "Michael Oliver",
+        "away-team": {
+          "score": 0,
+          "half-time-score": 0,
+          "name": "Manchester United",
+          "id": 13
+        },
+        "attendance": 61910,
+        "status": {
+          "short": "FT",
+          "full": "Full Time"
+        }
+      },
+      {
+        "date": "2023-08-26",
+        "venue": "Old Trafford",
+        "competition": {
+          "name": "Premier League",
+          "id": 1
+        },
+        "id": 457937,
+        "time": "15:00",
+        "home-team": {
+          "score": 3,
+          "half-time-score": 1,
+          "name": "Manchester United",
+          "id": 13
+        },
+        "referee": "Stuart Attwell",
+        "away-team": {
+          "score": 2,
+          "half-time-score": 2,
+          "name": "Nottingham Forest",
+          "id": 32
+        },
+        "attendance": 73595,
+        "status": {
+          "short": "FT",
+          "full": "Full Time"
+        }
+      }
+    ]
+  }
+}

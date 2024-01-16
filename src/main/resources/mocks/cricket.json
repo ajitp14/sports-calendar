@@ -1,0 +1,85 @@
+{
+  "teamMatchesData": [
+    {
+      "matchDetailsMap": {
+        "match": [
+          {
+            "matchInfo": {
+              "seriesName": "Afghanistan tour of India, 2024",
+              "matchDesc": "2nd T20I",
+              "matchFormat": "T20",
+              "startDate": "1705239000000",
+              "endDate": "1705251600000",
+              "team1": {
+                "teamName": "Afghanistan",
+                "teamSName": "AFG"
+              },
+              "team2": {
+                "teamName": "India",
+                "teamSName": "IND"
+              },
+              "venueInfo": {
+                "ground": "Holkar Cricket Stadium",
+                "city": "Indore"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "match": [
+          {
+            "matchInfo": {
+              "seriesName": "England tour of India, 2024",
+              "matchDesc": "1st Test",
+              "matchFormat": "TEST",
+              "startDate": "1706155200000",
+              "endDate": "1706526000000",
+              "team1": {
+                "teamName": "India",
+                "teamSName": "IND"
+              },
+              "team2": {
+                "teamName": "England",
+                "teamSName": "ENG"
+              },
+              "venueInfo": {
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "match": [
+          {
+            "matchInfo": {
+              "seriesName": "ICC Mens T20 World Cup 2024",
+              "matchDesc": "8th Match, Group A",
+              "matchFormat": "T20",
+              "startDate": "1717596000000",
+              "endDate": "1717608600000",
+              "team1": {
+                "teamName": "India",
+                "teamSName": "IND"
+              },
+              "team2": {
+                "teamName": "Ireland",
+                "teamSName": "IRE"
+              },
+              "venueInfo": {
+                "ground": "Nassau County International Cricket Stadium",
+                "city": "New York"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
